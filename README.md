@@ -1,2 +1,13 @@
 # Workspace_Administration_Solution
-Workforce Administration Solution is a software application or platform designed to streamline and automate various aspects of employee’s working on projects and Asset Assignment processes within an organization. It serves as a centralized system for managing employee data, number of projects an employee is working on, tracking employee performance
+Project Description: The Workforce Administration Solution is a software tool that helps make it easier to manage employees and the assets they are assigned to. It centralizes employee information, tracks how many projects they are working on, monitors their performance, and keeps a record of the assets assigned to them.
+
+Overview:
+
+Working on a real Salesforce project
+Understanding data modeling
+Creating an app
+Customizing the user interface
+Importing large amounts of data
+Ensuring security in Salesforce
+Collaborating with a group
+Creating reports and dashboards
